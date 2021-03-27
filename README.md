@@ -1,5 +1,5 @@
 # genqrcode
-Encode or Decode qrcode images.
+CLI of encode or decode qrcode images.
 ### Get
 ```
 go get -u github.com/informeai/genqrcode
