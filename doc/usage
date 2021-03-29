@@ -1,0 +1,12 @@
+Info:
+Generate e decode qrcode of many entries.
+
+Usage: genqrcode <command> <flags> <text|image>
+
+Commands:
+    genqrcode create <flags>	create qrcode with option flag.
+    genqrcode decode <flags>	decode qrcode of image.
+Flags:
+    -t	Text for convert in qrcode image.
+    -o  name of arquivo for save.
+    -i	image of decoder.
