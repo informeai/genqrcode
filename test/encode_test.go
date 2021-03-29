@@ -2,12 +2,12 @@ package test
 
 import (
 	"log"
-	"testings"
+	"testing"
 
 	"github.com/informeai/genqrcode/qr"
 )
 
-func TestEncode(t *testings.T) {
+func TestEncodeImg(t *testing.T) {
 	msg := "informeai"
 	arqToSave := "qr"
 

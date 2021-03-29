@@ -3,13 +3,14 @@ package test
 import (
 	"fmt"
 	"log"
-	"testings"
+	"path/filepath"
+	"testing"
 
 	"github.com/informeai/genqrcode/qr"
 )
 
-func TestDecode(t *testings.T) {
-	imageQr := "qr.png"
+func TestDecodeImg(t *testing.T) {
+	imageQr := filepath.Join("../images", "qr.png")
 	text, err := qr.Decode(imageQr)
 	if err != nil {
 		log.Fatalf("Not decoded image.\nerror:%v", err)
