@@ -9,7 +9,7 @@ go get -u github.com/informeai/genqrcode
 go build main.go
 ```
 ### Usage
-Download the [binary](https://github.com/informeai/genqrcode/releases/tag/v0.1.0) for platform in personal use.
+Download the [binary](https://github.com/informeai/genqrcode/releases/tag/v0.1.1) for platform in personal use.
 Unzip directory received.
 #### Linux or Macosx
 converts text to qrcode image.
