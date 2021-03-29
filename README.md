@@ -1,5 +1,6 @@
 # genqrcode
 ![qrcode](./images/qr.png)
+
 CLI of encode or decode qrcode images.
 ### Get
 ```
