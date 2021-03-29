@@ -26,4 +26,4 @@ This project uses [semantic versioning](https://semver.org/spec/v2.0.0.html)
 - Created initial cli
 
 [0.1.0]: https://github.com/informeai/genqrcode/releases/tag/v0.1.0
-[0.1.1]: https://github.com/informeai/genqrcode/releases/tag/v0.1.1
+[0.1.1]: https://github.com/informeai/genqrcode/compare/v0.1.0...v0.1.1
